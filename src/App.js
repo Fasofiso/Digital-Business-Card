@@ -1,4 +1,5 @@
 import React from "react";
+
 import Info from "./Components/Info";
 import About from "./Components/About";
 import Skills from "./Components/Skills";
